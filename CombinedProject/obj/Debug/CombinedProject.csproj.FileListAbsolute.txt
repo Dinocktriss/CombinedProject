@@ -1,0 +1,7 @@
+C:\Users\daniil\source\repos\CombinedProject\CombinedProject\bin\Debug\CombinedProject.exe.config
+C:\Users\daniil\source\repos\CombinedProject\CombinedProject\bin\Debug\CombinedProject.exe
+C:\Users\daniil\source\repos\CombinedProject\CombinedProject\bin\Debug\CombinedProject.pdb
+C:\Users\daniil\source\repos\CombinedProject\CombinedProject\obj\Debug\CombinedProject.csproj.AssemblyReference.cache
+C:\Users\daniil\source\repos\CombinedProject\CombinedProject\obj\Debug\CombinedProject.csproj.CoreCompileInputs.cache
+C:\Users\daniil\source\repos\CombinedProject\CombinedProject\obj\Debug\CombinedProject.exe
+C:\Users\daniil\source\repos\CombinedProject\CombinedProject\obj\Debug\CombinedProject.pdb
